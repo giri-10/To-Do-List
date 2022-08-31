@@ -1,0 +1,36 @@
+body {
+              font-family: Cambria;
+              background-image: url('117873.jpg');
+              background-size: cover;
+              height: 100%;
+              width: 100%;
+
+}
+
+.title {
+
+              font-size: 56px;
+
+}
+
+.list {
+              font-size: 20px;
+}
+
+.btn {
+
+              background-color: #133E58;
+              color: rgb(151, 199, 241);
+}
+
+.taskClass {
+
+              font-size: 20px;
+              font-family: Cambria;
+}
+
+.delClass {
+              background-color: #133E58;
+              color: rgb(151, 199, 241);
+              font-family: Cambria;
+}
