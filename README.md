@@ -1,4 +1,4 @@
 # To-Do-List
 
-LINK: 
+LINK: \n
 A simple to do list using javascript + DOM
