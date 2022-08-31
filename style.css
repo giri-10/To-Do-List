@@ -1,6 +1,6 @@
 body {
               font-family: Cambria;
-              background-image: url('117873.jpg');
+              background-image: url('117873.jpg') !important;
               background-size: cover;
               height: 100%;
               width: 100%;
